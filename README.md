@@ -9,3 +9,5 @@ Rice, which is among the most widely produced grain products worldwide, has many
 - Karacadag
 
 Use Transfer Learning MobileNetv2 by Keras to make a classification model 
+
+Dataset can be downloaded
