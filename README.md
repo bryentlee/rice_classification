@@ -8,6 +8,6 @@ Rice, which is among the most widely produced grain products worldwide, has many
 - Jasmine
 - Karacadag
 
-Use Transfer Learning MobileNetv2 by Keras to make a classification model 
+Use Transfer Learning MobileNetv2 and VGG16 by Keras to make two classification models and compare. At 5 epochs, VGG16 and MobileNetv2 have comparable accuracy at ~99%. However, MobileNetv2 has a much faster training time than VGG16. Further hyperparameter tuning can be done to obtain a better accuracy.
 
-Dataset can be downloaded
+Dataset can be downloaded https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset.
